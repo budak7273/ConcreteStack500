@@ -1,0 +1,20 @@
+{
+  "mod_id": "ubjtpwrNUqGkb",
+  "mod_reference": "ConcreteStack500",
+  "name": "Concrete Stacks to 500",
+  "version": "0.0.1",
+  "sml_version": "2.0.0",
+  "description": "Makes Concrete items stack to 500.",
+  "authors": ["Robb#6731"],
+  "loading_priority":1,
+  "objects": [
+    {
+      "type": "pak",
+      "path": "ConcreteStack500.pak"
+    }
+  ],
+  "dependencies": {
+  },
+  "optional_dependencies": {
+  }
+}
